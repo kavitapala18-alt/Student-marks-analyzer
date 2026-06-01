@@ -1,2 +1,2 @@
-# Student-marks-analyzer.
+# Student-marks-analyzer
 Analyzing student marks.
